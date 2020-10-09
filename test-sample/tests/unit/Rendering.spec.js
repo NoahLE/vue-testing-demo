@@ -1,9 +1,9 @@
 import { mount } from "@vue/test-utils";
-import Greeting from "@/components/Greeting.vue";
+import Rendering from "@/components/Rendering.vue";
 
-describe("Greeting.vue", () => {
+describe("Rendering.vue", () => {
   it("renders a greeting", () => {
-    const wrapper = mount(Greeting);
+    const wrapper = mount(Rendering);
     expect(wrapper.text()).toMatch("Vue and TDD");
     // console.log(wrapper.html());
   });

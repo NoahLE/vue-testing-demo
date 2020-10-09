@@ -1,6 +1,6 @@
 # Vue Testing Sandbox
 
-Testing Vue stuff
+Testing Vue stuff based on the [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/)
 
 ## Setup
 
